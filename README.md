@@ -8,6 +8,15 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 📖[Clique para ler o artigo!](https://web.dio.me/articles/aprenda-a-manipular-strings-com-facilidade-em-python?back=%2Farticles&page=1&order=oldest)
 
+💻**Tecnologias utilizadas no projeto:**
+* [Gemini](https://gemini.google.com/app?hl=pt-BR) - para título e conteúdo.
+* [Copilot](https://copilot.microsoft.com/) - para gerar mimagens.
+* [PowerPoint](https://www.office.com/) - para formatação de banner e layouts.
+
+🧠**Prompts e ferramentas:**
+*Gemini*:
+|Ação|Prompt|
+|---|---|
 
 
 
